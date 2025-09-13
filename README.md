@@ -1,4 +1,4 @@
-# TensorFlow_MNIST_Mini_Project
+# PyTorch_MNIST_Mini_Project
 
 This is a mini project made using PyTorch to detect the fashion clothing designs with as much accuracy and minimum loss as possible.
 
